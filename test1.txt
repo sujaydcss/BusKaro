@@ -1,0 +1,4 @@
+# BusKaro
+An online bus reservation system built using J2EE, MySQL as Database system. User Can Search bus, can Purchase tickets and can Cancel tickets.
+
+Hfgwq 3fuhhewdiswj
